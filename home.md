@@ -1,11 +1,11 @@
-<h1>Mathematics</b></h1>
-<p>Contains hand written notes and academic work  for <strong>grading and "show your work purposes"</strong>only!</p>
+<h1>Computer Science</b></h1>
+<p>Contains code, lecture notes, projects and academic work for <strong>grading and "show your work purposes"</strong>only!</p>
 <br>
-<h2>Calculus 1</h2>
-<p>Calculus 1 introduces the fundamental concepts of differential and integral calculus, providing the mathematical tools needed to analyze change and motion. The course begins with a review of functions and limits, then moves into the definition and computation of derivatives, exploring their interpretation as rates of change and slopes of tangent lines. Students apply differentiation techniques to solve problems involving optimization, motion, and related rates. The latter part of the course introduces definite and indefinite integrals, the Fundamental Theorem of Calculus, and basic applications of integration such as computing area under a curve.</p>
+<h2>Introduction to Programming with Python and R</h2>
+<p>CS1005C introduces students to programming concepts through Python and R, emphasizing their application in data analysis and informatics. The course structure includes both lectures and hands-on workshops, allowing students to engage with the material actively. Workshops are conducted using interactive platforms like Google Colab, enabling students to practice coding in a collaborative environment. Course focuses on Programming Fundamentals: Students will learn to write basic expressions and commands using Python and R syntax, including variables, control structures, and functions. Data Structures: The course covers essential data structures such as lists, dictionaries, and data frames, teaching students how to manipulate and analyze data effectively. Data Analysis Techniques: Students will gain experience in importing, cleaning, and visualizing data, as well as performing basic statistical analyses using both Python and R. Problem-Solving Skills: Through assignments and projects, students will develop the ability to approach and solve real-world problems using programming tools.</p>
 
 <details name="df_hw">
-  <summary><strong>Homework</strong></summary>
+  <summary><strong>Assignments</strong></summary>
    <ul style="padding-left: 30px;">
      <li><a href="https://github.com/markrandyreid/math/blob/main/homework/calc1.hw1.q2.pdf" target="_blank">Defining a Limit-HW1.Q2</a></li>
      <li><a href="https://github.com/markrandyreid/math/blob/main/homework/calc1.hw1.q10.pdf" target="_blank">Defining a Limit-HW1.Q10</a></li>

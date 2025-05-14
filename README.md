@@ -40,7 +40,7 @@
   </ul>
 </details>
 
-<h2>Calculus 2</h2>
+<h2>Introduction to Artificial Intelligence</h2>
 <p>Calculus 2 builds upon foundational concepts from Calculus 1, focusing primarily on advanced integration techniques, applications of the definite integral, and an introduction to infinite sequences and series. Students learn a variety of methods to evaluate complex integrals, such as integration by parts, trigonometric substitution, and partial fractions, and apply these techniques to solve real-world problems involving area, volume, work, and arc length.</p>
 <details name="c2_exams">
   <summary><strong>Exams</strong></summary>

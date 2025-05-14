@@ -19,7 +19,9 @@
 </details>
 
 <h2>Introduction to Artificial Intelligence</h2>
-<p>This UC course offers an introduction to Artificial Intelligence, covering fundamental concepts and techniques. It explores key AI areas such as machine learning, search algorithms, logic and reasoning, and neural networks. Students engage with both theoretical foundations and practical applications through lectures and hands-on assignments. The course emphasizes real-world problem-solving using AI tools and frameworks. By the end, students gain a solid grounding in core AI methods and their practical use.</p>
+
+<p>This course offers an introduction to Artificial Intelligence, covering fundamental concepts and techniques. It explores key AI areas such as machine learning, search algorithms, logic and reasoning, and neural networks. Students engage with both theoretical foundations and practical applications through lectures and hands-on assignments. The course emphasizes real-world problem-solving using AI tools and frameworks. By the end, students gain a solid grounding in core AI methods and their practical use.</p>
+
 <details name="c2_exams">
   <summary><strong>Exams</strong></summary>
    <ul style="padding-left: 30px;">

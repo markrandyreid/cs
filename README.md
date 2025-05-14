@@ -19,7 +19,7 @@
 </details>
 
 <h2>Introduction to Artificial Intelligence</h2>
-<p>Calculus 2 builds upon foundational concepts from Calculus 1, focusing primarily on advanced integration techniques, applications of the definite integral, and an introduction to infinite sequences and series. Students learn a variety of methods to evaluate complex integrals, such as integration by parts, trigonometric substitution, and partial fractions, and apply these techniques to solve real-world problems involving area, volume, work, and arc length.</p>
+<p>This UC course offers an introduction to Artificial Intelligence, covering fundamental concepts and techniques. It explores key AI areas such as machine learning, search algorithms, logic and reasoning, and neural networks. Students engage with both theoretical foundations and practical applications through lectures and hands-on assignments. The course emphasizes real-world problem-solving using AI tools and frameworks. By the end, students gain a solid grounding in core AI methods and their practical use.</p>
 <details name="c2_exams">
   <summary><strong>Exams</strong></summary>
    <ul style="padding-left: 30px;">

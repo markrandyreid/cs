@@ -22,8 +22,8 @@
 
 <p>This course offers an introduction to Artificial Intelligence, covering fundamental concepts and techniques. It explores key AI areas such as machine learning, search algorithms, logic and reasoning, and neural networks. Students engage with both theoretical foundations and practical applications through lectures and hands-on assignments. The course emphasizes real-world problem-solving using AI tools and frameworks. By the end, students gain a solid grounding in core AI methods and their practical use.</p>
 
-<details name="c2_exams">
-  <summary><strong>Exams</strong></summary>
+<details name="ai_notes">
+  <summary><strong>Notes</strong></summary>
    <ul style="padding-left: 30px;">
      <li><a href="https://github.com/markrandyreid/math/blob/main/exams/calculus2.test1.03.19.25.pdf" target="_blank"><b>Test 1: </b>Topic 1 (Logarithmic, Exponential, Trigonometric & Inverse Functions)
  </a></li>

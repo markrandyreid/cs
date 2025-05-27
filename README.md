@@ -8,6 +8,7 @@
   <summary><strong>Assignments</strong></summary>
    <ul style="padding-left: 30px;">
      <li><a href="https://github.com/markrandyreid/cs/blob/main/assignments/cs1005_assignment1_mrr_05_13_2025.ipynb" target="_blank">Assignment 1</a></li>
+     <li><a href="https://github.com/markrandyreid/cs/blob/main/assignments/Reid_Assignment_2.ipynb" target="_blank">Assignment 2</a></li>
    </ul>    
 </details>
 

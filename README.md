@@ -4,6 +4,14 @@
 <h2>Introduction to Programming with Python and R</h2>
 <p>This course introduces programming concepts using Python and R, with a focus on data analysis and informatics. It combines lectures and interactive workshops on platforms like Google Colab for hands-on coding experience. Students learn programming fundamentals, including variables, control structures, and functions in both languages. Key topics include data structures (lists, dictionaries, data frames) and data analysis techniques such as importing, cleaning, visualizing, and analyzing data. Assignments and projects build practical problem-solving skills using programming tools.</p>
 
+<details name="cs_notes">
+  <summary><strong>Notes</strong></summary>
+   <ul style="padding-left: 30px;">
+     <li><a href="https://github.com/markrandyreid/cs/blob/main/assignments/cs1005_assignment1_mrr_05_13_2025.ipynb" target="_blank">Assignment 1</a></li>
+     <li><a href="https://github.com/markrandyreid/cs/blob/main/assignments/Reid_Assignment_2.ipynb" target="_blank">Assignment 2</a></li>
+   </ul>    
+</details>
+
 <details name="df_hw">
   <summary><strong>Assignments</strong></summary>
    <ul style="padding-left: 30px;">

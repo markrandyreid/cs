@@ -7,7 +7,7 @@
 <details name="cs_notes">
   <summary><strong>Notes</strong></summary>
    <ul style="padding-left: 30px;">
-     <li><a href="https://github.com/markrandyreid/cs/blob/main/notes/Section.4.1.3.DataType_Lists_Tuple_Difference.ipynb" target="_blank">Module 4.1.3 - Lists and Tuples: Mutabiltiy, List Methods (append cs. extend), Aliasing vs. Cloning</a></li>
+     <li><a href="https://github.com/markrandyreid/cs/blob/main/notes/Section.4.1.3.DataType_Lists_Tuple_Difference.ipynb" target="_blank">Module 4.1.3 - Lists and Tuples: Mutabiltiy, List Methods (append vs. extend), Aliasing vs. Cloning</a></li>
      <li><a href="https://github.com/markrandyreid/cs/blob/main/assignments/Reid_Assignment_2.ipynb" target="_blank">Assignment 2</a></li>
    </ul>    
 </details>
